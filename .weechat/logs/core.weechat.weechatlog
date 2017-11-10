@@ -1,0 +1,31 @@
+2017-11-09 13:45:29		Nuevo atajo (contexto "default"):  meta-meta-OQ => /bar scroll buflist * e
+2017-11-09 13:45:29		Nuevo atajo (contexto "default"):  meta-meta-OP => /bar scroll buflist * b
+2017-11-09 13:45:29		Nuevo atajo (contexto "default"):  meta-OQ => /bar scroll buflist * +100%
+2017-11-09 13:45:29		Nuevo atajo (contexto "default"):  meta-OP => /bar scroll buflist * -100%
+2017-11-09 13:45:29		Plugins cargados: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2017-11-09 13:45:34		irc: server freenode added
+2017-11-09 13:45:54		Opción cambiada: irc.server.freenode.username = "Zvnrt"  (default if null: "zvnrt")
+2017-11-09 13:46:06		Opción cambiada: irc.server.freenode.realname = "Luis Olvera"  (default if null: "")
+2017-11-09 13:46:35		Opción cambiada: irc.server.freenode.autoconnect = on  (default if null: off)
+2017-11-09 13:47:02		Opción cambiada: irc.server.freenode.addresses = "chat.freenode.net/7000"  (default if null: "")
+2017-11-09 13:47:09		Opción cambiada: irc.server.freenode.ssl = on  (default if null: off)
+2017-11-09 13:47:17		Opción cambiada: irc.server.freenode.sasl_username = "Zvnrt"  (default if null: "")
+2017-11-09 13:47:31		Opción cambiada: irc.server.freenode.sasl_password = "4542601242"  (default if null: "")
+2017-11-09 13:47:50		Opción cambiada: irc.server.freenode.command = "/msg nickserv identify 4542601242"  (default if null: "")
+2017-11-09 13:49:20	=!=	No es posible escribir texto en este buffer
+2017-11-09 13:50:18		Opción cambiada: irc.server.freenode.autojoin = "#archlinux-es,#manjaro-es"  (default if null: "")
+2017-11-09 13:51:12		Opciones guardadas en sec.conf
+2017-11-09 13:51:12		Opciones guardadas en weechat.conf
+2017-11-09 13:51:12		Opciones guardadas en plugins.conf
+2017-11-09 13:51:12		Opciones guardadas en charset.conf
+2017-11-09 13:51:12		Opciones guardadas en logger.conf
+2017-11-09 13:51:12		Opciones guardadas en exec.conf
+2017-11-09 13:51:12		Opciones guardadas en trigger.conf
+2017-11-09 13:51:12		Opciones guardadas en aspell.conf
+2017-11-09 13:51:12		Opciones guardadas en alias.conf
+2017-11-09 13:51:12		Opciones guardadas en buflist.conf
+2017-11-09 13:51:12		Opciones guardadas en fifo.conf
+2017-11-09 13:51:12		Opciones guardadas en xfer.conf
+2017-11-09 13:51:12		Opciones guardadas en irc.conf
+2017-11-09 13:51:12		Opciones guardadas en relay.conf
+2017-11-09 13:51:12		Opciones guardadas en script.conf

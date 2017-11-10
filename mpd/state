@@ -1,0 +1,33 @@
+sw_volume: 100
+audio_device_state:1:My Pulse Output
+audio_device_state:1:my_fifo
+state: pause
+current: 0
+time: 7.767000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:(1995) - Lugburz/01 - Grey Heavens.mp3
+1:(1995) - Lugburz/01 - Grey Heavens.mp3
+2:(1995) - Lugburz/02 - Beyond Bloodred Horizons.mp3
+3:(1995) - Lugburz/03 - Flight Of The Nazgul.mp3
+4:(1995) - Lugburz/04 - Where Winters Forever Cry.mp3
+5:(1995) - Lugburz/05 - Through The Valley Of The Frozen Kingdom.mp3
+6:(1995) - Lugburz/06 - Raising With The Battle - Orcs.mp3
+7:(1995) - Lugburz/07 - Master Of The Old Lure.mp3
+8:(1995) - Lugburz/08 - Between Light And Darkness.mp3
+9:(1995) - Lugburz/09 - The Eternal Lands Of Fire.mp3
+10:(1995) - Lugburz/10 - Dragons Of Time.mp3
+11:(1995) - Lugburz/11 - Moondance.mp3
+12:Vvilderness - Devour The Sun (2017)/01 Starless Dark.mp3
+13:Vvilderness - Devour The Sun (2017)/02 Sól.mp3
+14:Vvilderness - Devour The Sun (2017)/03 Devour The Sun.mp3
+15:Vvilderness - Devour The Sun (2017)/04 Life.mp3
+16:Vvilderness - Devour The Sun (2017)/05 New Earth.mp3
+17:Vvilderness - Devour The Sun (2017)/06 Aftershine.mp3
+playlist_end

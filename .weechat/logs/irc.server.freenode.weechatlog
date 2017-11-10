@@ -1,0 +1,99 @@
+2017-11-09 13:50:40	--	irc: conectando al servidor chat.freenode.net/7000 (SSL)...
+2017-11-09 13:50:40	--	gnutls: conectado usando intercambio de claves Diffie-Hellman de 2048-bits
+2017-11-09 13:50:40	--	gnutls: recibiendo 2 certificados
+2017-11-09 13:50:40	--	 - información del certificado[1]:
+2017-11-09 13:50:40	--	   - subject `CN=weber.freenode.net', issuer `CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US', serial 0x0326fe7c8b2b00779e7b2c07ea81df3f2e7d, RSA key 4096 bits, signed using RSA-SHA256, activated `2017-10-09 05:01:23 UTC', expires `2018-01-07 05:01:23 UTC', pin-sha256="aB8n4a9u10zW+UfXS+6aqpJzVNPFIA6rOjwP1CDaRQU="
+2017-11-09 13:50:40	--	 - información del certificado[2]:
+2017-11-09 13:50:40	--	   - subject `CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US', issuer `CN=DST Root CA X3,O=Digital Signature Trust Co.', serial 0x0a0141420000015385736a0b85eca708, RSA key 2048 bits, signed using RSA-SHA256, activated `2016-03-17 16:40:46 UTC', expires `2021-03-17 16:40:46 UTC', pin-sha256="YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg="
+2017-11-09 13:50:40	--	gnutls: el certificado del par es confiable
+2017-11-09 13:50:40	--	irc: conectado a chat.freenode.net/7000 (162.213.39.42)
+2017-11-09 13:50:41	--	weber.freenode.net: *** Looking up your hostname...
+2017-11-09 13:50:41	--	weber.freenode.net: *** Checking Ident
+2017-11-09 13:50:41	--	weber.freenode.net: *** Couldn't look up your hostname
+2017-11-09 13:50:50	--	weber.freenode.net: *** No Ident response
+2017-11-09 13:50:50	--	irc: capabilidad del cliente, el servidor soporta: account-notify extended-join identify-msg multi-prefix sasl
+2017-11-09 13:50:50	--	irc: capabilidad del cliente, solicitando: sasl
+2017-11-09 13:50:50	--	irc: capabilidad del cliente, habilitado: sasl
+2017-11-09 13:50:51	--	You are now logged in as Zvnrt. (zvnrt!Zvnrt@189.251.55.79)
+2017-11-09 13:50:51	--	SASL authentication successful
+2017-11-09 13:50:51	--	Welcome to the freenode Internet Relay Chat Network zvnrt
+2017-11-09 13:50:51	--	MSG(nickserv): identify **********
+2017-11-09 13:50:51	--	Your host is weber.freenode.net[162.213.39.42/7000], running version ircd-seven-1.1.4
+2017-11-09 13:50:51	--	This server was created Thu Jan 26 2017 at 20:12:59 UTC
+2017-11-09 13:50:51	--	weber.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2017-11-09 13:50:51	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2017-11-09 13:50:51	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU KNOCK :are supported by this server
+2017-11-09 13:50:51	--	CPRIVMSG CNOTICE WHOX ETRACE :are supported by this server
+2017-11-09 13:50:51	--	There are 116 users and 90565 invisible on 30 servers
+2017-11-09 13:50:51	--	36 :IRC Operators online
+2017-11-09 13:50:51	--	40 :unknown connection(s)
+2017-11-09 13:50:51	--	55845 :channels formed
+2017-11-09 13:50:51	--	I have 2337 clients and 1 servers
+2017-11-09 13:50:51	--	2337 6820 :Current local users 2337, max 6820
+2017-11-09 13:50:51	--	90681 93012 :Current global users 90681, max 93012
+2017-11-09 13:50:51	--	Highest connection count: 6821 (6820 clients) (1191829 connections received)
+2017-11-09 13:50:51	--	- weber.freenode.net Message of the Day -
+2017-11-09 13:50:51	--	- Welcome to weber.freenode.net in California, USA.
+2017-11-09 13:50:51	--	- Thanks to https://www.cloudsigma.com/ for sponsoring
+2017-11-09 13:50:51	--	- this server!
+2017-11-09 13:50:51	--	-
+2017-11-09 13:50:51	--	- WEBER, DAVID M. (1952-), an American fantasy and scifi
+2017-11-09 13:50:51	--	- author. Best known for his 'Honor Harrington' series, his
+2017-11-09 13:50:51	--	- works span several genres, including alternate history,
+2017-11-09 13:50:51	--	- epic fantasy, military scifi and space opera. He's also
+2017-11-09 13:50:51	--	- done wargame design mainly for the StarFire tabletop
+2017-11-09 13:50:51	--	- boardgame series, a job which later evolved into the novel,
+2017-11-09 13:50:51	--	- 'Insurrection' (collaboration with Steve White, published
+2017-11-09 13:50:51	--	- in 1990).
+2017-11-09 13:50:51	--	-
+2017-11-09 13:50:51	--	- Welcome to freenode - supporting the free and open source
+2017-11-09 13:50:51	--	- software communities since 1998.
+2017-11-09 13:50:51	--	-
+2017-11-09 13:50:51	--	- By connecting to freenode you indicate that you have read and
+2017-11-09 13:50:51	--	- accept our policies and guidelines as set out on https://www.freenode.net
+2017-11-09 13:50:51	--	-
+2017-11-09 13:50:51	--	- In the event that you observe behaviour that contravenes our policies,
+2017-11-09 13:50:51	--	- please notify a volunteer staff member via private message, or send us an
+2017-11-09 13:50:51	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2017-11-09 13:50:51	--	- situation within a reasonable period of time, and we may request further
+2017-11-09 13:50:51	--	- information or, as appropriate, involve other parties such as channel operators
+2017-11-09 13:50:51	--	- Group Contacts representing an on-topic group.
+2017-11-09 13:50:51	--	-
+2017-11-09 13:50:51	--	- freenode runs an open proxy scanner.
+2017-11-09 13:50:51	--	-
+2017-11-09 13:50:51	--	- If you are looking for assistance, you will be able to find a list of
+2017-11-09 13:50:51	--	- volunteer staff using the '/who freenode/staff/*' command, and you may
+2017-11-09 13:50:51	--	- message any of us at any time. Please note that freenode predominantly
+2017-11-09 13:50:51	--	- provides assistance via private message, and while we have a network
+2017-11-09 13:50:51	--	- channel the primary venue for support requests is via private message to
+2017-11-09 13:50:51	--	- a member of the volunteer staff team.
+2017-11-09 13:50:51	--	-
+2017-11-09 13:50:51	--	- From time to time, volunteer staff may send server-wide notices relating to
+2017-11-09 13:50:51	--	- the project, or the communities that we host. The majority of such notices
+2017-11-09 13:50:51	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2017-11-09 13:50:51	--	- do not miss them. Important messages relating to the freenode project, including
+2017-11-09 13:50:51	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2017-11-09 13:50:51	--	- global notices.
+2017-11-09 13:50:51	--	-
+2017-11-09 13:50:51	--	- Representing an on-topic project? Don't forget to to register, more information
+2017-11-09 13:50:51	--	- can be found on the https://freenode.net website under "Group Registration".
+2017-11-09 13:50:51	--	-
+2017-11-09 13:50:51	--	- freenode organises an annual conference, and we would like to extend our
+2017-11-09 13:50:51	--	- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+2017-11-09 13:50:51	--	- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+2017-11-09 13:50:51	--	- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+2017-11-09 13:50:51	--	-
+2017-11-09 13:50:51	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2017-11-09 13:50:51	--	- network going for close to two decades.
+2017-11-09 13:50:51	--	-
+2017-11-09 13:50:51	--	- freenode #live returns to Bristol, UK on November 3rd-4th 2018, keep an eye
+2017-11-09 13:50:51	--	- on the https://freenode.live venue for our call for volunteers and call for
+2017-11-09 13:50:51	--	- participation. If you are interested in sponsoring next year's event, please
+2017-11-09 13:50:51	--	- send us an e-mail to sponsor@freenode.live
+2017-11-09 13:50:51	--	-
+2017-11-09 13:50:51	--	- Thank you for using freenode!
+2017-11-09 13:50:51	--	-
+2017-11-09 13:50:51	--	-
+2017-11-09 13:50:51	--	End of /MOTD command.
+2017-11-09 13:50:51	--	Modo de usuario [+Zi] por zvnrt
+2017-11-09 13:50:57	--	NickServ (NickServ@services.): You are already logged in as Zvnrt.

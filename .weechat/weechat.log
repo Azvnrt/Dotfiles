@@ -1,0 +1,32 @@
+[2017-11-09 13:56:00] WeeChat 1.9.1 (compilado en Sep 23 2017 19:44:10)
+[2017-11-09 13:56:00] Leyendo el archivo de configuración sec.conf
+[2017-11-09 13:56:00] Leyendo el archivo de configuración weechat.conf
+[2017-11-09 13:56:00] Leyendo el archivo de configuración plugins.conf
+[2017-11-09 13:56:00] Leyendo el archivo de configuración charset.conf
+[2017-11-09 13:56:00] Leyendo el archivo de configuración exec.conf
+[2017-11-09 13:56:00] Leyendo el archivo de configuración trigger.conf
+[2017-11-09 13:56:00] Leyendo el archivo de configuración aspell.conf
+[2017-11-09 13:56:00] Leyendo el archivo de configuración alias.conf
+[2017-11-09 13:56:00] Leyendo el archivo de configuración buflist.conf
+[2017-11-09 13:56:00] Leyendo el archivo de configuración xfer.conf
+[2017-11-09 13:56:00] Leyendo el archivo de configuración irc.conf
+[2017-11-09 13:56:00] Leyendo el archivo de configuración colorize_nicks.conf
+[2017-11-09 13:56:00] Leyendo el archivo de configuración buffers.conf
+[2017-11-09 13:56:00] Leyendo el archivo de configuración script.conf
+[2017-11-09 13:56:00] irc: conectando al servidor chat.freenode.net/7000 (SSL)...
+[2017-11-09 14:28:53] irc: conectando al servidor chat.freenode.net/7000 (SSL)...
+[2017-11-09 16:00:09] Se perdió la terminal, cerrando WeeChat...
+[2017-11-09 16:00:09] Guardando archivo de configuración plugins.conf
+[2017-11-09 16:00:09] Guardando archivo de configuración buffers.conf
+[2017-11-09 16:00:09] Guardando archivo de configuración buflist.conf
+[2017-11-09 16:00:09] Guardando archivo de configuración irc.conf
+[2017-11-09 16:00:09] Guardando archivo de configuración aspell.conf
+[2017-11-09 16:00:09] Guardando archivo de configuración alias.conf
+[2017-11-09 16:00:09] Guardando archivo de configuración trigger.conf
+[2017-11-09 16:00:09] Guardando archivo de configuración script.conf
+[2017-11-09 16:00:09] Guardando archivo de configuración charset.conf
+[2017-11-09 16:00:09] Guardando archivo de configuración xfer.conf
+[2017-11-09 16:00:09] Guardando archivo de configuración colorize_nicks.conf
+[2017-11-09 16:00:09] Guardando archivo de configuración exec.conf
+[2017-11-09 16:00:09] Guardando archivo de configuración weechat.conf
+[2017-11-09 16:00:09] Guardando archivo de configuración sec.conf
